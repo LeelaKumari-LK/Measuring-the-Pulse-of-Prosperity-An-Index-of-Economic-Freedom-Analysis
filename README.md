@@ -78,5 +78,4 @@ This project successfully demonstrates how economic freedom influences prosperit
 
 ---
 
-## 👨‍💻 Author
-Leela Kumari
+
